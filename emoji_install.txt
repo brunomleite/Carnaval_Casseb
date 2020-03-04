@@ -1,0 +1,3 @@
+https://pypi.org/project/emoji/
+
+link pra instalar a lib do emoji
